@@ -52,3 +52,20 @@ This cloud monitoring and alerting setup demonstrates how **AWS CloudWatch**, co
 
 **OUTPUT**
 
+![Image](https://github.com/user-attachments/assets/fa05607d-ff33-4f06-a113-a678a24cb79f)
+
+![Image](https://github.com/user-attachments/assets/0d1c0574-f317-43b5-8220-0d74ec21694c)
+
+![Image](https://github.com/user-attachments/assets/33e9b099-a1fa-4f15-b4b9-6d4cf6e58345)
+
+![Image](https://github.com/user-attachments/assets/bdae4abc-848b-4330-b690-43c0022e7fc0)
+
+![Image](https://github.com/user-attachments/assets/f5d3e398-ec26-41a7-af6a-c5da631f8036)
+
+![Image](https://github.com/user-attachments/assets/5997d261-619b-401e-814c-c8b5c79ee422)
+
+![Image](https://github.com/user-attachments/assets/fb83aaa1-e46a-43d3-b583-5d8cdac77138)
+
+![Image](https://github.com/user-attachments/assets/c5ca9baa-6c56-49ce-a472-2bed6323c336)
+
+
